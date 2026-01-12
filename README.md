@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi, I'm Yassine !
 
-<!--
-**YasLam1/YasLam1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+C# Backend Software Engineer (.NET) with a PhD in Applied Mathematics.
 
-Here are some ideas to get you started:
+⚙️ My background combines:
+- C#/.NET backend development
+- Business & engineering automation
+- Applied mathematics & modeling
+- Personal projects in quantitative finance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Tech Stack : 
+- C#, .NET, ASP.NET Core, SQL, Python, CI/CD
+
+
+📌 What I work on :
+- Backend APIs & automation tools
+- Building Information Modeling & engineering workflows
+- Portfolio optimization & risk analysis (personal projects)
